@@ -32,7 +32,7 @@ p{font-size:18px;}
 
 <body>
 
-<h1>Tu Técnico 24/7 Monterrey</h1>
+<h1>Servicio tecnico confiable en Monterrey</h1>
 
 <p>
 Reparaciones del hogar rápidas y confiables.<br><br>
